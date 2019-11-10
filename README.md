@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 9](../../../fhnw-iot/blob/master/09/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/8kETjSSB).*
 
 ### a) Dashboard as a service, 15'
 * Choose a dashboard service and a transport protocol, try [ThingSpeak](https://thingspeak.com/), [Cayenne](https://cayenne.mydevices.com/) or [ThingsBoard.io](https://thingsboard.io/).
